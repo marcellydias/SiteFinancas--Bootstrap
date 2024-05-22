@@ -7,7 +7,7 @@ Eco3D é um sistema de gerenciamento de estoque desenvolvido como parte de um pr
 ## Funcionalidades
 - Apresentação do sistema Eco3D
 - Seções informativas sobre as funcionalidades do sistema
-- - Seções informativas sobre as vantagens do sistema
+- Seções informativas sobre as vantagens do sistema
 - Navegação intuitiva e amigável
 
 ## Tecnologias Utilizadas
