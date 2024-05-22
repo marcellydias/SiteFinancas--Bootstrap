@@ -15,8 +15,8 @@ Eco3D é um sistema de gerenciamento de estoque desenvolvido como parte de um pr
 - CSS: Estilização personalizada
 - Bootstrap: Framework CSS para criação de layouts responsivos e componentes reutilizáveis
 
-  Repositório do Backend (NestJS)
-  Repositório do Frontend (Next.js)
+- [Repositório do Backend (NestJS)](https://github.com/2luizottavioc/mmtes-eco3d-nest)
+- [Repositório do Frontend (Next.js)](https://github.com/2luizottavioc/mmtes-eco3d-next)
 
 
 ## Como Utilizar
